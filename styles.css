@@ -1,0 +1,43 @@
+
+  body {
+    background-color: powderblue
+  }
+
+h1 {
+color: #4e3d53
+
+
+}
+
+  h3{
+
+color: #276678
+
+  }
+
+  h4 {
+    color: #276678
+  }
+
+a {
+  color: #276678
+}
+
+
+
+
+  hr {
+    background-color: powderblue;
+    border-style: none;
+    border-top-style: dotted;
+    border-color: #276678;
+    border-width: 07px;
+
+width: 5%;
+
+  }
+
+img {
+height: 150px
+
+</style>
